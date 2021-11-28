@@ -5,7 +5,7 @@
          src="https://github.com/vinninascimento/resgate-js/img/capa.jpg" 
                 
     />
-  </a>
+
   <br />
   Desenvolvido em JS, HTML e CSS com os frameworks JQuery e JQuery Collision.
 </p>
