@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://lucasrmagalhaes.github.io/resgate-js/" target="_blank">
     <img 
-         src="https://github.com/vinninascimento/resgate-js/blob/main/img/capa.jpg" 
+         src="https://github.com/vinninascimento/resgate-js/img/capa.jpg" 
          alt="Portfolio" 
   </a>
   <br />
