@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-         src="https://github.com/vinninascimento/resgate-js/main/img/capa.jpg"             
+         src="https://github.com/vinninascimento/resgate-js/blob/main/img/capa.jpg"          
     />
 
   <br />
