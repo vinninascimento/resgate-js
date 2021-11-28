@@ -1,10 +1,10 @@
 <h1 align="center">RESGATE GAME  :helicopter:</h5>
 
 <p align="center">
-  <a href="https://lucasrmagalhaes.github.io/resgate-js/" target="_blank">
+  <a href="#/" target="_blank">
     <img 
-         src="https://github.com/vinninascimento/resgate-js/img/capa.jpg" 
-         alt="Portfolio" 
+         src="https://github.com/vinninascimento/resgate-js/blob/master/img/capa.jpg" 
+         
   </a>
   <br />
   Desenvolvido em JS, HTML e CSS com os frameworks JQuery e JQuery Collision.
