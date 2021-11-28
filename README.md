@@ -2,8 +2,7 @@
 
 <p align="center">
     <img 
-         src="https://github.com/vinninascimento/resgate-js/img/capa.jpg" 
-                
+         src="https://github.com/vinninascimento/resgate-js/img/capa.jpg" alt="Portfolio"                
     />
 
   <br />
